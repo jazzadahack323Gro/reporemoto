@@ -1,10 +1,10 @@
 mi_diccionario = {
-    "nombre": "Juan",
-    "usuario": "jn123",
+    "nombre": "Juan", "Jona", "jeremias", "Joseline",
+    "usuario": "jn123","Jona123", "jere123", "Jose123",
 }
 
-# Muestra Juan
+# Muestra nombre
 print(mi_diccionario["nombre"])
 
-# Muestra jn123
+# Muestra usuario
 print(mi_diccionario["usuario"])
