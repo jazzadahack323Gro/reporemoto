@@ -1,7 +1,7 @@
 student = {
-    "Nombre": "Jesús López",
-    "Edad": "25",
-    "Temas": "Backend"
+    "Nombre": "Maria de Jesus Montes",
+    "Edad": "30",
+    "Temas": "FrontEnd"
 }
 student['age'] = 23
 student.items()
